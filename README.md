@@ -1,0 +1,2 @@
+# Lailuo_DengFOC
+基于45同学开发的莱洛三角形，结构和软件优化之后运用在DengFOC上
