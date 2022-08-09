@@ -13,9 +13,9 @@
 
 配套本开源项目，灯哥精心制作了全组装过程视频教程和算法原理课，请点击查看：
 
-[1 DengFOC LQR莱洛三角形--效果展示](https://www.bilibili.com/video/BV1SU4y1Z72W/)
+[1 DengFOC LQR莱洛三角形--效果展示](https://www.bilibili.com/video/BV1Mg411o7hd/)
 
-[2  DengFOC LQR莱洛三角形算法原理和DIY实现](https://www.bilibili.com/video/BV1Mg411o7hd/)
+[2  DengFOC LQR莱洛三角形算法原理和DIY实现](https://www.bilibili.com/video/BV1JL4y177Z5/)
 
 ## 2 接线
 
