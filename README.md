@@ -15,7 +15,7 @@
 
 [1 DengFOC LQR莱洛三角形--效果展示](https://www.bilibili.com/video/BV1Mg411o7hd/)
 
-[2  DengFOC LQR莱洛三角形算法原理和DIY实现](https://www.bilibili.com/video/BV1JL4y177Z5/)
+[2  DengFOC LQR莱洛三角形算法原理和DIY实现](https://www.bilibili.com/video/BV1QG4y1Y76f/)
 
 ## 2 接线
 
