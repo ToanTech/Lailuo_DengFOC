@@ -27,7 +27,8 @@
 | AS5600   | SDA0,SCL0,3V3,GND           |
 | MPU6050  | SDA1,SCL1,3V3,GND           |
 
-![image1](pic/jxk.png)
+;![image1](pic/jxk.png)
+<div align=center><img src="https://cdn.nlark.com/yuque/0/2023/png/29556705/1673063969912-11a8a680-f180-4ebb-81ec-b18d024a21ef.png#clientId=u8d4101ea-b663-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=474&id=u1d5cfb25&margin=%5Bobject%20Object%5D&name=5a6d1332478106ae221b35f65e3a17c.png&originHeight=592&originWidth=675&originalType=binary&ratio=1&rotation=0&showTitle=false&size=267736&status=done&style=none&taskId=ue39e4f0b-9bbb-4578-b9f7-c3e432f4b48&title=&width=540"></div>
 
 如果你是自行DIY，那么按照上面的接线表格将线接入DengFOC即可；如果你是采用在 [灯哥开源 淘宝店](https://shop564514875.taobao.com/) 购买的莱洛三角形套件，那么你会得到**如下图所示配套线材**。
 
